@@ -1,0 +1,25 @@
+.marca {
+    margin-right: 4em;
+    font-weight: 600;
+}
+
+.formularioClientes {
+    max-width: 600px;
+    margin: 5em auto;
+    border: lightgray solid 5px;
+    border-radius: 15px;
+    padding: 2em;
+}
+
+.tablaFactura {
+    max-width: 600px;
+    margin: 5em auto;
+    border: lightgray solid 5px;
+    border-radius: 15px;
+    padding: 2em;
+}
+.formulariosFacturacion {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
